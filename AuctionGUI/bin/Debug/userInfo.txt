@@ -1,0 +1,10 @@
+Amna,123,Admin
+Ali,456,
+Anna,456,
+Khadija,456,Admin
+Ahad,123,
+Mehak,456,
+Rukhmah,456,
+Iman,456,456
+Abdullah,123,Admin
+Aliza,123,

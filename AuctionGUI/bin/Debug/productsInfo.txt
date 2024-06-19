@@ -1,0 +1,4 @@
+Khorjin,Rug,White,12,7000,0,7000,0,0,Rukhmah
+Suzani,Rug,Yellow,6,4000,0,4500,500,0,Aliza
+Distortion,Painting,Multi,3,6500,0,7000,500,0,Rukhmah
+Blue Skies,Painting,Multi,5,8000,1,0,0,0,

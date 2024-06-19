@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AuctionGUI.BL.CardInfoBL">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAAAAAAAAACAAAAAgAAAAAAACAAAAAgAA=</HashCode>
+      <FileName>BL\CardInfoBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionGUI.BL.MyUserBL">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAEAAAAAAAAAAAAAACAAAAAgAAQAAAAMAAAA=</HashCode>
+      <FileName>BL\MyUserBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionGUI.BL.ProductsBL">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAQhAEAEBQAAQCQAAEAgCAABAIgAAQCAA=</HashCode>
+      <FileName>BL\ProductsBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionGUI.BL.ReviewsBL">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAACAAAAAgAA=</HashCode>
+      <FileName>BL\ReviewsBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionGUI.BL.TimeBL">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAIAACAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\TimeBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionGUI.DL.CardInfoDL">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\CardInfoDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionGUI.DL.MyUserDL">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAABAAAAAACAAABAgAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>DL\MyUserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionGUI.DL.ProductsDL">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABAABAAAAACAAAABAAAAAAAAAAEAAAAAAAgAAAAA=</HashCode>
+      <FileName>DL\ProductsDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionGUI.DL.ReviewsDL">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAABAAAAAAIAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\ReviewsDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionGUI.DL.TimeDL">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAABAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>DL\TimeDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
